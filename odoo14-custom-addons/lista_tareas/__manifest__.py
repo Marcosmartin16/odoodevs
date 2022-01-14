@@ -9,8 +9,8 @@
     Sencilla lista de tareas utilizadas para crear un nuevo módulo con un nuevo modelo de datos
     """,
 
-    'author': "Sergi García",
-    'website': "https://apuntesfpinformatica.es",
+    'author': "Marcosmartin16",
+    'website': "https://github.com/Marcosmartin16",
     #Indicamos que es una aplicación
     'application': True,
 
